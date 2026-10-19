@@ -1,0 +1,2 @@
+task_id,target,uniprot_id,pdb_id,receptor_prepared_pdb,native_ligand_reference_sdf,native_ligand_prepared_sdf,query_ligand_prepared_sdf,manual_review,notes
+1iep_demo,ABL1,P00519,1IEP,1iep_receptor.pdb,1iep_ligand.sdf,1iep_ligand.sdf,1iep_ligand.sdf,false,Public Meeko tutorial example
