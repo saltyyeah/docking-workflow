@@ -2,8 +2,6 @@
 
 A reusable Python workflow beginning with UniProt IDs: find experimental PDB structures, produce a reviewable shortlist, download reviewed structures, extract a chosen co-crystal ligand instance, and run Meeko plus AutoDock Vina.
 
-No OEKDTRANS structures, target tables, screening results, or credentials are included. The `examples` directory has CSV templates only.
-
 ## Install
 
 ```bash
